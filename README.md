@@ -1,7 +1,7 @@
 ## Hi there! I'm Níckolas
-- 🧑‍💻 Learning Flutter
+- 🧑‍💻 Mobile Developer
 - 🎓 Studying Computer Science at UFERSA
-- 🧪 Venturing on Front-end
+- 🧪 Venturing on Data Science
 
 <div align="center">
   <a href="https://github.com/nickolas-silva">
@@ -18,5 +18,6 @@
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/ruby-original.svg">
 </div>
    
