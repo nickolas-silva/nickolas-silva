@@ -1,35 +1,28 @@
-## Hi! I'm Níckolas Emanuel
-- 🧑‍💻 Mobile Developer
-- 🎓 Studying Computer Science at UFERSA
-- 🧪 Venturing on Data Science
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+### 👋 Hi! I'm Níckolas Emanuel
+
+
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Computer Science at UFERSA</a>.
+- 💼 &nbsp; Developer at Prefeitura Municipal de Mossoró and ReurbFor</a>
+- ✈️ &nbsp; Member of @pegazulsaerodesign
+- 🌱 &nbsp; Learning Data Science.
+
+
 
 ---
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  
+</p>
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-
-[<img align="left" height="94px" width="94px" alt="ReurbFor" src="https://habitacao.fortaleza.ce.gov.br/images/Images/ReurbFor_canal.png"/>](https://nubank.com.br/)
-
-**Software Engineer** \
-[**REURB FOR**](https://habitacao.fortaleza.ce.gov.br/) • Contract \
-Linguagens & Tecnologias: `Flutter`, `Dart`, `sqlite` \
-Projetos em destaque: [App](.)
-<br/>
-
-
-[<img align="left" height="94px" width="94px" alt="Pegazuls Aerodesign" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lGeqK6bOhn5vZY0_NjhnhBs638QHsECrBIBNWdwvJA&s"/>](https://www.instagram.com/pegazulsaerodesign/)
-
-**Data Science** \
-[**Pegazuls Aerodesign**](https://www.instagram.com/pegazulsaerodesign/) • Member \
-Linguagens & Tecnologias: `Python` \
-Projetos em destaque: [MDO]()
-<br/>
-
-<br/>
-
----
+<br>
 
 ### ⚙️ GitHub Analytics
 
@@ -76,5 +69,3 @@ Projetos em destaque: [MDO]()
     />
   </a>
 </p>
-
----
