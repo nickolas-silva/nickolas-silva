@@ -1,22 +1,80 @@
-## Hi there! I'm Níckolas
+## Hi! I'm Níckolas Emanuel
 - 🧑‍💻 Mobile Developer
 - 🎓 Studying Computer Science at UFERSA
 - 🧪 Venturing on Data Science
 
-<div align="center">
-  <a href="https://github.com/nickolas-silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickolas-silva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolas-silva&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+---
+
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+
+[<img align="left" height="94px" width="94px" alt="ReurbFor" src="https://habitacao.fortaleza.ce.gov.br/images/Images/ReurbFor_canal.png"/>](https://nubank.com.br/)
+
+**Software Engineer** \
+[**REURB FOR**](https://habitacao.fortaleza.ce.gov.br/) • Contract \
+Linguagens & Tecnologias: `Flutter`, `Dart`, `sqlite` \
+Projetos em destaque: [App](.)
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Pegazuls Aerodesign" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6lGeqK6bOhn5vZY0_NjhnhBs638QHsECrBIBNWdwvJA&s"/>](https://www.instagram.com/pegazulsaerodesign/)
+
+**Data Science** \
+[**Pegazuls Aerodesign**](https://www.instagram.com/pegazulsaerodesign/) • Member \
+Linguagens & Tecnologias: `Python` \
+Projetos em destaque: [MDO]()
+<br/>
+
+<br/>
+
+---
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=nickolas-silva&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolas-silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nickolas-silva&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
   
-## ⚙️ Technologies
-<div style="display: inline_block"><br>
-  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-</div>
    
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=nickolas-silva&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
