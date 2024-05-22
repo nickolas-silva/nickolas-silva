@@ -31,14 +31,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=nickolas-silva&theme=dark&hide_border=false&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=nickolas-silva&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolas-silva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickolas-silva&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -46,7 +46,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=nickolas-silva&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nickolas-silva&theme=tokyonight&hide_border=false"
         alt="Github Stats"
       />
     </td>
