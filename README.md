@@ -4,8 +4,8 @@
 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science at UFERSA</a>.
-- 💼 &nbsp; Developer at Prefeitura Municipal de Mossoró and ReurbFor</a>
+- 🎓 &nbsp; Graduated in Computer Science - UFERSA</a>.
+- 💼 &nbsp; Developer at BNF Tecnologia</a>
 - ✈️ &nbsp; Member of @pegazulsaerodesign
 - 🌱 &nbsp; Learning Data Science.
 
