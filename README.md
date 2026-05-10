@@ -6,7 +6,6 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in Computer Science - UFERSA</a>.
 - 💼 &nbsp; Developer at BNF Tecnologia</a>
-- ✈️ &nbsp; Member of @pegazulsaerodesign
 - 🌱 &nbsp; Learning Data Science.
 
 
